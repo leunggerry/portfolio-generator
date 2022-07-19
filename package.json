@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portfolio generator for the user",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app Gerry leunggerry"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leunggerry/portfolio-generator.git"
+  },
+  "author": "Gerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leunggerry/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/leunggerry/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
