@@ -130,7 +130,7 @@ const generateProjects = (projectsArr) => {
 };
 
 /** Export 
-//  **************************************************************************************************/
+ **************************************************************************************************/
 // module.exports = generatePage;
 module.exports = (templateData) => {
   console.log(templateData);
